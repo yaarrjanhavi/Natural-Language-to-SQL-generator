@@ -27,7 +27,7 @@ This repository contains a Python-based pipeline that abstracts SQL complexity f
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/NL-to-SQL-Generator.git](https://github.com/your-username/NL-to-SQL-Generator.git)
+    git clone [https://github.com/yaarrjanhavi/NL-to-SQL-Generator.git](https://github.com/yaarrjanhavi/NL-to-SQL-Generator.git)
     ```
 2.  **Install dependencies:**
     ```bash
@@ -36,7 +36,7 @@ This repository contains a Python-based pipeline that abstracts SQL complexity f
 3.  **Set up your API Key:**
     Add your `GOOGLE_API_KEY` to your environment variables or Google Colab Secrets.
 4.  **Run the notebook:**
-    Open `day15_NL_to_SQL_generator.ipynb` and execute the cells.
+    Open `NL to SQL.ipynb` and execute the cells.
 
 ## Future Scope
 * Integration with multi-table schemas and foreign key relationship mapping.
