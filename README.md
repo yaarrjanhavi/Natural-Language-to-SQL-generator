@@ -40,4 +40,4 @@ This repository contains a Python-based pipeline that abstracts SQL complexity f
 
 ## Future Scope
 * Integration with multi-table schemas and foreign key relationship mapping.
-* Implementation of a front-end UI using Streamlit or Flask.
+* Implementation of a front-end UI using Flash or Streamlit or others.
