@@ -5,7 +5,7 @@ This repository contains a Python-based pipeline that abstracts SQL complexity f
 
 
 
-## Key Features
+## Key Features 
 * **Natural Language Translation:** Converts descriptive English into complex SQL (Aggregations, Joins, and Subqueries).
 * **Prompt Engineering:** Utilizes System Role-playing and Few-Shot prompting to maintain SQLite-specific syntax.
 * **Structured Output:** Enforces JSON response formats for programmatic status tracking (Success/Clarification/Error).
@@ -15,7 +15,7 @@ This repository contains a Python-based pipeline that abstracts SQL complexity f
 * **LLM:** Google Gemini 2.0 Flash
 * **Language:** Python 3.x
 * **Database:** SQLite3
-* **Libraries:** `google-genai`, `pandas`, `sqlite3`
+* **Libraries:** `google-genai`, `pandas`, `sqlite3`.
 
 ## System Logic & Pipeline
 1.  **Metadata Injection:** The database schema (DDL) is injected into the model's context window.
@@ -40,4 +40,4 @@ This repository contains a Python-based pipeline that abstracts SQL complexity f
 
 ## Future Scope
 * Integration with multi-table schemas and foreign key relationship mapping.
-* Implementation of a front-end UI using Flash or Streamlit or others.
+* Implementation of a front-end UI using Flash, Streamlit, or others.
