@@ -1,7 +1,7 @@
 # NL-to-SQL Generator using Gemini 2.0 Flash
 
 ## Project Overview
-This repository contains a Python-based pipeline that abstracts SQL complexity for non-technical users. By leveraging Large Language Models (LLMs), the system translates natural language questions into valid SQLite queries, executes them against a local database, and returns formatted results via library like Pandas.
+This repository contains a Python-based pipeline that abstracts SQL complexity for non-technical users. By leveraging Large Language Models (LLMs), the system translates natural language questions into valid SQLite queries, executes them against a local database, and returns formatted results via library like Pandas etc. 
 
 
 
